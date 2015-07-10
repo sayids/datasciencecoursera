@@ -1,0 +1,1 @@
+This is some strange file was made in vi text editor.
